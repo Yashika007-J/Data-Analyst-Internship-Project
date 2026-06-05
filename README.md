@@ -1,5 +1,5 @@
-#UAc_Project(Data-analytics)
+#UAC_Project(Data-analytics)
 
-Working on this this project right now!!
+Working on this project right now!!
 
 
