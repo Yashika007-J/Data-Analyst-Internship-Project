@@ -186,7 +186,6 @@ doc.add_paragraph(
 # 8. References
 doc.add_heading('8. References', level=1)
 refs = [
-    'U.S. Department of Health and Human Services — ORR UAC Data',
     'Unified Mentor Data Analytics Internship Program, 2026',
     'Python Software Foundation — Pandas, Matplotlib, Seaborn Documentation',
     'Streamlit Inc. — Streamlit Framework Documentation',
